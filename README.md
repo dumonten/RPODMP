@@ -1,7 +1,7 @@
 # RPODMP
 Mobile application development on Swift, Kotlin, Dart
 
-## Task
+## Tasks
 Laboratory work: Development of a mobile application using Firebase
 The goal: To create a mobile application that will interact with the Firebase database for storing and managing data.
 
