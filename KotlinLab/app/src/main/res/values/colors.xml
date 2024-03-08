@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#e6ddf0</color>
+    <color name="button">#4d4159</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFF</color>
+    <color name="gray">#656169</color>
+    <color name="textColor">#6e4a3c</color>
+    <color name="pastel_yellow">#FFFACD</color> <!-- LemonChiffon -->
+    <color name="pastel_orange">#FFA07A</color> <!-- LightSalmon -->
+    <color name="pastel_red">#FFB6C1</color> <!-- LightPink -->
+    <color name="pastel_pink">#FFD1DC</color> <!-- PinkLight -->
+    <color name="pastel_purple">#D8BFD8</color> <!-- Thistle -->
+    <color name="pastel_blue">#AFEEEE</color> <!-- PaleTurquoise -->
+    <color name="pastel_green">#90EE90</color> <!-- LightGreen -->
+    <color name="pastel_gray">#D3D3D3</color> <!-- LightGray -->
+</resources>
+
+

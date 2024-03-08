@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".UserMainActivity">
+
+    <LinearLayout
+        android:id="@+id/subTitleLl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/emailTv"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/example_example_com"
+            android:gravity="center_vertical|start"
+            android:paddingStart="16dp"
+            android:textColor="@color/black"
+            tools:ignore="RtlSymmetry" />
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="5dp">
+
+            <Button
+                android:id="@+id/userInfoButton"
+                android:layout_width="140dp"
+                android:layout_height="50dp"
+                android:text="@string/user_profile"/>
+
+            <Button
+                android:id="@+id/showButton"
+                android:layout_width="140dp"
+                android:layout_height="50dp"
+                android:text="@string/my_favorites"
+                android:layout_below="@id/userInfoButton"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/citiesList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/subTitleLl"
+        android:layout_margin="5dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:listitem="@layout/row_city" />
+
+</RelativeLayout>

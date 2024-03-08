@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39131828836",
+    "project_id": "kotlinlab-bbe50",
+    "storage_bucket": "kotlinlab-bbe50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39131828836:android:20c82fa380a7c4622b4571",
+        "android_client_info": {
+          "package_name": "com.example.kotlinlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvL4kAVrEWpb4Dvq5Fa-p84SVGS1koWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
