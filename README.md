@@ -52,7 +52,21 @@ Basic requirements:
   <img src="https://github.com/dumonten/RPODMP/assets/92388475/5aaa5984-5ecd-4700-a103-934c9ce6f4ec" height="500"/>
 </p>
 
-<p align="center"><i>App ui photos</i></p>
+<p align="center"><i>Kotlin app ui photos</i></p>
+
+## Flutter/Dart
+
+<p align="center">
+  <img src="https://github.com/dumonten/RPODMP/assets/92388475/7020928e-4476-425a-ae7c-b4767d344136" height="500"/>
+</p>
+
+***
+
+<p align="center">
+  <img src="https://github.com/dumonten/RPODMP/assets/92388475/abe39067-e022-4315-b032-9bd760b905ce" height="500"/>
+</p>
+
+<p align="center"><i>Flutter/Dart app ui photos</i></p>
 
 
 
