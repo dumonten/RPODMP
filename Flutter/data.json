@@ -1,0 +1,30 @@
+{
+  "books": {
+    "book1": {
+      "id": "book1",  
+      "title": "book1",  
+      "author": "ME IS Author",
+      "description": "1 The most populous city in the United States, known for its skyline and cultural institutions.",
+      "images": ["img1", "img2"]
+    }, 
+    "book2": {
+      "id": "book2",  
+      "title": "book2",  
+      "author": "ME IS Author 2",
+      "description": "2 The most populous city in the United States, known for its skyline and cultural institutions.",
+      "images": ["img3", "img4"]
+    }
+  },
+  "users": {
+    "7aRUpwYnKAhwMto7ydteRQemuUm2": {
+      "about": "djd",
+      "age": 20,
+      "email": "p@p.com",
+      "favorite_authors": "did",
+      "favorite_books": "did",
+      "favorite_janars": "xud",
+      "name": "di",
+      "surname": "did"
+    }
+  }
+}
