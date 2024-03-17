@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA_9B5PUIaZ39oOYS2DIswuTdDuf_eDgV0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>415896029298</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yankova.lab3-</string>
+	<key>PROJECT_ID</key>
+	<string>swift-4872f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swift-4872f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:415896029298:ios:6b6d13225b64d80d69daeb</string>
+	<key>DATABASE_URL</key>
+	<string>https://swift-4872f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
